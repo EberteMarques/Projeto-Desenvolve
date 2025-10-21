@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Ficha_De_Cadastro</title>
+</head>
+<body>
+   <div class="container">
+    <section class="header">
+        <h2>NOVA CONTA</h2>
+    </section>
+
+    <form id="form" class="form"> 
+        <div class="form-content">
+            <label for="username">Nome do Usuário</label>
+            <input type="text" id="username" class="form-input" placeholder="Digite seu nome de usuário"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" class="form-input" placeholder="email@email.com"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="telefone">Telefone</label>
+            <input type="tel" id="telefone" class="form-input" placeholder="(xx)xxxx-xxxx"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="cpf">CPF</label>
+            <input type="text" id="cpf" class="form-input" placeholder="xxx.xxx.xxx-xx"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+         <div class="form-content">
+            <label for="data">Data de Nascimento</label>
+            <input type="date" id="data" class="form-input" placeholder="dd/mm/aaaa"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="genero">Genero</label>
+            <input type="text" id="genero" class="form-input" placeholder="Masculino/Feminino"/>
+            <a id="gen">Aqui vai a mensagem de erro</a>
+        </div>
+
+       <div class="form-content">
+            <label for="rua">Endereço completo</label>
+            <input type="text" id="rua" class="form-input" placeholder="Digite sua rua"/>
+            <a id="rua-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="numero">Número</label>
+            <input type="text" id="numero" class="form-input" placeholder="N.º:"/>
+            <a id="numero-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="bairro">Bairro</label>
+            <input type="text" id="bairro" class="form-input" placeholder="Digite o bairro"/>
+            <a id="bairro-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="cidade">Cidade</label>
+            <input type="text" id="cidade" class="form-input" placeholder="Digite a cidade"/>
+            <a id="cidade-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="UF">UF</label>
+            <input type="text" id="uf" class="form-input" placeholder="UF"/>
+            <a id="UF-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="cep">CEP</label>
+            <input type="text" id="cep" class="form-input" placeholder="Digite o CEP"/>
+            <a id="cep-error">Aqui vai a mensagem de erro</a>
+        </div>
+
+
+        <div class="form-content">
+            <label for="password">Senha</label>
+            <input type="password" id="password" class="form-input" placeholder="Digite sua senha"/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <div class="form-content">
+            <label for="password-confirmation">Confirmação de Senha</label>
+            <input type="password" id="password-confirmation" class="form-input" placeholder="Digite sua senha novamente "/>
+            <a>Aqui vai a mensagem de erro</a>
+        </div>
+
+        <button type="submit">Cadastrar</button>
+
+    </form>
+   </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

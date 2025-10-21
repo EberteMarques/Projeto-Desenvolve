@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interação com Botões</title>
+</head>
+<body>
+     <style>
+        body{font: 12pt Arial;
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            margin-top: 10%;
+        }
+        header{
+
+            background-color: bisque;
+            padding: 30px;
+            width: 200px;
+        }
+        buton{ font-size: 12pt; padding: 30 px;}
+    
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Escolha um botão</h1>
+        <button onclick="a()">Botão A</button>
+        <button onclick ="b()">Botão B</button>
+        <button onclick="c()">Botão C</button>
+    </header>
+    <script>
+        function a(){
+            window.alert(`Você escolheu a opção A, aqui não há premios!`)
+        }
+        function b(){
+            window.alert(`Você escolheu a opção B, você ganhou 10% de desconto na próxima compra!Parabéns!!`)
+        }
+
+        function c(){
+            window.alert(`Você escolheu a opção C, sendo assim, você terá um acréscimo de 10% na sua compra, sinto muito :( `)
+
+        }
+
+    </script>
+</body>
+</html>

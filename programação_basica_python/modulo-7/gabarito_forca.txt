@@ -1,0 +1,10 @@
+baleia
+cachorro
+macaco
+peixe
+passarinho
+mosquito
+esquilo
+lobo
+leão
+girafa

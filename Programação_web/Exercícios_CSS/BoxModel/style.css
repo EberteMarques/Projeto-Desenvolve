@@ -1,0 +1,33 @@
+p {
+/* border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: brown;
+*/
+border: solid 1px brown;
+
+padding-top: 2%;
+padding-bottom: 2%;
+padding-right: 1%;
+
+/*
+padding: 25px;
+*/
+margin: 30px;
+/*
+background-image: url(https://fastly.picsum.photos/id/545/600/600.jpg?hmac=9YRDH-6NS-cfWMJH-LcfrXp7Oo0gMPuGS03YU_U60qE);
+background-repeat:no-repeat;
+background-position: left ;*/
+background-color: yellow;
+}
+em {
+    border: dashed  2px black;
+    background-color: aqua;
+    padding-left: 25px;
+    padding-right:25px ;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 30px;
+
+    display: inline-block;
+}
+

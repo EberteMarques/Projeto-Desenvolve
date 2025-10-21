@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interações JS</title>
+</head>
+<body>
+    </head>
+<body>
+     <style>
+        body{font: 12pt Arial;
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            margin-top: 10%;
+        }
+        header{
+
+            background-color: bisque;
+            padding: 30px;
+            width: 200px;
+        }
+        buton{ font-size: 12pt; padding: 30 px;}
+    
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Trabalhando com Dados</h1>
+        <button onclick="inicio()">Clique aqui para começar</button>
+
+        <section id="resultado">
+            <p></p>
+        </section>
+    </header>
+    <script>
+        function inicio(){
+            let nome = window.prompt (`Qual é o seu mome? `)
+            let res = window.document.getElementById(`resultado`)
+            res.innerHTML = `<p> Olá, <strong> ${nome}</strong>! É um grande prazer te conhecer! &#x1F596;`
+        }
+      
+    </script>
+</body>
+</html>
+    
+</body>
+</html>

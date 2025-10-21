@@ -1,0 +1,7 @@
+PSEUDOCÓDIGO
+
+1- INÍCIO
+2 - Leia "n", #ENTRADA
+3 - n1= (n-1) X 10 +(10-n); #PROCESSAMENTO
+4 - Imprima 9 x n = n1 #SAÍDA
+5 - FIM;

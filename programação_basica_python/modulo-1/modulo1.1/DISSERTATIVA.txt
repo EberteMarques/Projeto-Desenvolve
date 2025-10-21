@@ -1,0 +1,6 @@
+DISSERTATIVA
+
+1 - leia do teclado e armazene na variável "n" um número de 01 à 10 que você deseja multiplicar por 09; #ENTRADA
+2 - Aplique a operação de subtração entre o número armazenado na variável "n" e o número 1, multiplique por 10 e some com o resultado de 10 -n;
+ armazene o resultado na variável n1; #PROCESSAMENTO
+4 - Apresente na tela o conteúdo das variáveis n1; SAÍDA

@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "poppins", sans-serif;
+}
+body {
+    display: flex;
+    /*flex-direction: column;*/
+    align-items: center;
+    justify-content: center;
+    background-image: url(./logo_clube_cruzeiro_itabirano/1_contato.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.container {
+    background-color: #fafafa;
+    border-radius: 14px;
+    margin: 9px;
+    box-sizing: 0 3px 5px rgba (0, 0, 0, 0.5);
+    width: 100%;
+    max-width: 600px;
+    overflow: hidden;
+}
+
+.header {
+    background: linear-gradient(120deg, #3acbf0 0%, #8bb0ff 100%);
+    padding: 24px;
+    text-align: center;
+    color: #fff;
+}
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;;
+}
+ .form-content {
+    margin-bottom: 1px;
+    padding-bottom: 18px;
+    position: relative;
+}
+.form-content input {
+    display:block; 
+    border-radius: 8px;
+    padding: 8px;
+    margin: 5px;
+    border: 2px solid #dfdfdf;
+    
+}
+.form-content input#username{
+    width: 78vh;
+}
+.form-content input#email{
+    width: 54vh;
+}
+.form-content input#telefone{
+    width: 14vh;
+}
+.form-content input#cpf{
+    width: 20vh;
+
+}
+.form-content input#data{
+    width: 26vh;
+}
+
+.form-content input#genero{
+    width: 20vh;
+}
+
+.form-content input#rua{
+    width: 78vh;
+}
+
+.form-content input#numero{
+    width: 14vh;
+}
+.form-content input#bairro{
+    width: 60vh;
+}
+.form-content input#cidade{
+    width: 68vh;
+}
+
+.form-content input#uf{
+    width: 6vh;
+}
+.form-content input#cep{
+    width: 20vh;
+}
+.form-content input#password{
+    width: 25vh;
+}
+.form-content input#password-confirmation{
+    width: 27vh;
+}   
+
+
+.form-content a{
+    position: absolute;
+    visibility: hidden;
+    width: 45vh;
+    
+}
+
+
+.form-content button {
+    background: #00c3ff;
+    color: #fff;
+    
+}
+.form button{
+    background-color: #00c3ff;
+    color: #fff;
+    width: 100%;
+    border-radius: 14px;
+    padding: 10px;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 14px;
+}
+.form-content.error input {
+    border-color: #ff0000;
+
+}
+.form-content.error a {
+    color: #ff0000;
+    visibility: visible;
+}
+
+/*.form-content.error #gen{
+    margin-left: 53px;
+}*/

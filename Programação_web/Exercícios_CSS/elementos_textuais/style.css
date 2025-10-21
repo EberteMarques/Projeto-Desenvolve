@@ -1,0 +1,18 @@
+p  {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+
+    /* para colocar o texto em negrito*/
+    line-height: ;
+
+    /*alinhamento do texto*/
+    text-align: justify;
+
+    /*Adiciona uma linha no texto que pode ser bulilinhado, riscado ou uma linha acima do texo como se fosse um sublinado às avessas*/
+    text-decoration: ;
+
+    /* faz a identação da primeira linha de um bloco de texto, como se fosse um parágrafo*/
+    text-indent: 12cap;
+}

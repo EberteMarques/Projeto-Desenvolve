@@ -1,0 +1,1000 @@
+1,Notebook 9,produto,353.03,6
+2,Manutenção de notebook,servico,355.82,50
+3,Notebook 95,produto,383.63,48
+4,Manutenção de notebook,servico,351.02,41
+5,Manutenção de notebook,servico,233.6,5
+6,Capa 9,produto,353.97,17
+7,Troca de tela,servico,146.32,6
+8,Manutenção de celular,servico,263.73,20
+9,Manutenção de celular,servico,321.11,7
+10,Mouse 81,produto,271.51,4
+11,HD 96,produto,54.54,28
+12,Manutenção de celular,servico,391.33,21
+13,Instalação de software,servico,343.08,3
+14,Mouse 83,produto,423.52,24
+15,SSD 14,produto,415.22,5
+16,Manutenção de notebook,servico,499.52,38
+17,Manutenção de notebook,servico,30.62,28
+18,Carregador 93,produto,286.56,7
+19,HD 66,produto,299.37,14
+20,SSD 76,produto,338.32,16
+21,HD 23,produto,286.08,15
+22,HD 58,produto,171.5,2
+23,Fone 73,produto,379.08,15
+24,Manutenção de notebook,servico,339.71,3
+25,Teclado 69,produto,85.88,8
+26,Instalação de software,servico,102.83,2
+27,Teclado 51,produto,333.25,48
+28,Capa 22,produto,407.13,47
+29,Fone 7,produto,127.78,8
+30,Celular 28,produto,64.6,32
+31,Limpeza interna,servico,398.57,35
+32,Instalação de software,servico,147.29,38
+33,HD 74,produto,302.27,33
+34,Troca de tela,servico,453.79,29
+35,Manutenção de notebook,servico,289.56,34
+36,Celular 12,produto,494.69,45
+37,Carregador 7,produto,67.53,10
+38,Instalação de software,servico,49.09,22
+39,HD 47,produto,488.12,10
+40,Instalação de software,servico,357.26,47
+41,Manutenção de celular,servico,426.88,19
+42,Monitor 32,produto,227.4,35
+43,Limpeza interna,servico,128.92,48
+44,Manutenção de notebook,servico,54.28,46
+45,Teclado 97,produto,480.76,46
+46,Instalação de software,servico,94.5,7
+47,Limpeza interna,servico,373.76,16
+48,Instalação de software,servico,348.2,30
+49,Instalação de software,servico,438.45,34
+50,Carregador 23,produto,219.81,39
+51,Carregador 19,produto,256.3,12
+52,Mouse 43,produto,456.88,10
+53,Troca de tela,servico,143.48,25
+54,Troca de tela,servico,408.57,14
+55,Fone 28,produto,267.81,30
+56,Manutenção de notebook,servico,27.5,46
+57,Instalação de software,servico,362.37,10
+58,Carregador 98,produto,337.52,39
+59,Mouse 33,produto,213.27,39
+60,Troca de tela,servico,321.74,11
+61,Capa 79,produto,386.41,43
+62,SSD 71,produto,223.83,21
+63,HD 60,produto,421.3,18
+64,Notebook 67,produto,486.09,21
+65,Limpeza interna,servico,246.2,13
+66,Troca de tela,servico,279.15,38
+67,Mouse 71,produto,415.11,46
+68,Manutenção de celular,servico,225.16,28
+69,Limpeza interna,servico,418.82,14
+70,Manutenção de notebook,servico,462.11,1
+71,Carregador 33,produto,136.45,11
+72,Manutenção de celular,servico,196.63,42
+73,Fone 87,produto,54.65,19
+74,Capa 66,produto,470.74,5
+75,Celular 25,produto,422.75,39
+76,Troca de tela,servico,331.82,46
+77,Limpeza interna,servico,181.82,30
+78,Carregador 37,produto,498.72,18
+79,Notebook 87,produto,329.39,50
+80,HD 7,produto,292.7,22
+81,Carregador 69,produto,177.92,34
+82,Mouse 71,produto,118.47,21
+83,Instalação de software,servico,174.44,29
+84,Manutenção de celular,servico,143.52,19
+85,Troca de tela,servico,241.42,4
+86,Instalação de software,servico,187.82,42
+87,Notebook 46,produto,291.58,4
+88,Instalação de software,servico,302.94,12
+89,Manutenção de notebook,servico,198.39,23
+90,Manutenção de celular,servico,77.37,7
+91,Fone 36,produto,333.64,9
+92,Fone 85,produto,399.95,23
+93,HD 30,produto,415.49,46
+94,Notebook 35,produto,46.37,33
+95,Notebook 34,produto,161.96,26
+96,Manutenção de notebook,servico,419.14,8
+97,Manutenção de notebook,servico,216.32,48
+98,Manutenção de notebook,servico,251.12,22
+99,Capa 89,produto,356.13,19
+100,Troca de tela,servico,70.32,26
+101,Mouse 29,produto,441.37,2
+102,Manutenção de notebook,servico,189.16,37
+103,HD 13,produto,345.41,46
+104,Instalação de software,servico,183.35,22
+105,Manutenção de notebook,servico,203.14,9
+106,Manutenção de notebook,servico,424.43,46
+107,HD 24,produto,443.27,15
+108,Limpeza interna,servico,263.81,38
+109,Fone 93,produto,111.23,15
+110,Capa 84,produto,465.09,27
+111,HD 21,produto,60.03,21
+112,Notebook 70,produto,295.8,22
+113,SSD 73,produto,247.46,17
+114,Troca de tela,servico,40.31,32
+115,Manutenção de celular,servico,177.51,44
+116,Manutenção de celular,servico,114.74,10
+117,Capa 16,produto,137.32,24
+118,Monitor 99,produto,133.73,29
+119,Instalação de software,servico,81.15,6
+120,HD 81,produto,358.03,50
+121,Monitor 23,produto,434.87,37
+122,Troca de tela,servico,121.49,45
+123,Instalação de software,servico,494.94,17
+124,Notebook 79,produto,82.17,8
+125,Monitor 76,produto,334.01,7
+126,Manutenção de celular,servico,301.64,41
+127,Teclado 41,produto,439.42,32
+128,Manutenção de celular,servico,143.14,15
+129,Monitor 70,produto,297.39,26
+130,Troca de tela,servico,60.43,44
+131,Manutenção de celular,servico,320.52,8
+132,Mouse 97,produto,33.84,15
+133,Celular 20,produto,40.67,4
+134,Monitor 91,produto,225.91,43
+135,Monitor 78,produto,181.6,34
+136,Fone 59,produto,89.61,46
+137,HD 83,produto,183.44,9
+138,Limpeza interna,servico,260.23,10
+139,Manutenção de celular,servico,239.98,37
+140,Celular 1,produto,95.77,24
+141,Manutenção de notebook,servico,164.33,6
+142,Limpeza interna,servico,342.92,10
+143,Carregador 81,produto,354.19,41
+144,HD 44,produto,294.56,39
+145,Troca de tela,servico,267.0,9
+146,Monitor 51,produto,491.03,30
+147,SSD 27,produto,165.58,13
+148,Manutenção de celular,servico,411.42,24
+149,Carregador 3,produto,242.54,12
+150,SSD 94,produto,370.83,38
+151,Teclado 70,produto,143.96,33
+152,Instalação de software,servico,306.01,8
+153,SSD 55,produto,301.79,43
+154,HD 14,produto,431.72,23
+155,Manutenção de celular,servico,469.88,22
+156,Celular 17,produto,466.13,9
+157,Notebook 79,produto,144.75,27
+158,Manutenção de notebook,servico,396.19,34
+159,SSD 87,produto,102.92,17
+160,Manutenção de notebook,servico,184.22,32
+161,Mouse 27,produto,242.9,12
+162,HD 32,produto,97.62,18
+163,Carregador 43,produto,197.84,49
+164,Mouse 40,produto,161.7,8
+165,SSD 65,produto,421.43,47
+166,Monitor 80,produto,452.56,42
+167,Fone 3,produto,248.05,19
+168,Instalação de software,servico,315.49,3
+169,SSD 50,produto,238.74,37
+170,Fone 35,produto,159.38,13
+171,Celular 28,produto,358.28,47
+172,Fone 87,produto,68.4,43
+173,Teclado 65,produto,161.1,25
+174,Instalação de software,servico,229.28,1
+175,Manutenção de celular,servico,73.4,32
+176,Instalação de software,servico,115.6,22
+177,Carregador 28,produto,243.65,33
+178,Instalação de software,servico,485.55,43
+179,Troca de tela,servico,447.78,41
+180,Troca de tela,servico,39.28,33
+181,Mouse 69,produto,334.58,20
+182,Limpeza interna,servico,427.28,47
+183,Mouse 31,produto,101.26,34
+184,SSD 20,produto,400.94,23
+185,Monitor 97,produto,98.76,7
+186,Instalação de software,servico,234.07,42
+187,Instalação de software,servico,274.31,46
+188,Monitor 20,produto,496.0,42
+189,Notebook 7,produto,93.14,17
+190,SSD 18,produto,489.72,16
+191,Capa 60,produto,370.96,39
+192,Instalação de software,servico,44.93,13
+193,Fone 86,produto,322.04,28
+194,Carregador 31,produto,449.84,34
+195,Manutenção de notebook,servico,193.14,27
+196,Fone 74,produto,447.71,41
+197,Teclado 69,produto,100.74,10
+198,Capa 61,produto,24.37,3
+199,Teclado 57,produto,478.32,39
+200,Fone 99,produto,477.78,17
+201,HD 6,produto,448.01,40
+202,Troca de tela,servico,384.62,28
+203,Manutenção de notebook,servico,380.86,11
+204,Manutenção de notebook,servico,139.48,20
+205,Celular 33,produto,304.86,9
+206,Instalação de software,servico,414.88,10
+207,Troca de tela,servico,375.19,12
+208,Limpeza interna,servico,140.54,8
+209,Instalação de software,servico,488.42,28
+210,Celular 23,produto,54.77,14
+211,HD 11,produto,436.13,33
+212,Capa 18,produto,372.56,30
+213,Manutenção de celular,servico,439.62,19
+214,Monitor 73,produto,90.51,3
+215,Manutenção de notebook,servico,32.75,11
+216,Celular 42,produto,362.21,40
+217,Manutenção de notebook,servico,408.1,37
+218,Manutenção de notebook,servico,122.2,18
+219,Troca de tela,servico,77.33,5
+220,Capa 46,produto,485.89,19
+221,Troca de tela,servico,342.68,46
+222,Manutenção de notebook,servico,324.73,29
+223,Instalação de software,servico,161.73,50
+224,SSD 80,produto,350.95,15
+225,Instalação de software,servico,96.04,14
+226,Limpeza interna,servico,119.15,8
+227,HD 80,produto,407.83,6
+228,Limpeza interna,servico,436.72,32
+229,Carregador 7,produto,384.24,46
+230,Manutenção de celular,servico,77.18,3
+231,Limpeza interna,servico,80.73,2
+232,Celular 40,produto,369.85,21
+233,Notebook 1,produto,352.56,47
+234,Celular 63,produto,339.1,12
+235,Celular 91,produto,100.37,21
+236,Troca de tela,servico,48.62,34
+237,Troca de tela,servico,469.49,28
+238,Manutenção de celular,servico,70.84,4
+239,Troca de tela,servico,475.13,32
+240,Manutenção de celular,servico,121.1,50
+241,SSD 66,produto,242.65,37
+242,Limpeza interna,servico,62.2,35
+243,Manutenção de celular,servico,259.42,3
+244,Fone 28,produto,376.83,46
+245,Troca de tela,servico,184.22,2
+246,Mouse 61,produto,487.69,44
+247,Fone 100,produto,227.07,48
+248,Limpeza interna,servico,279.47,41
+249,Manutenção de notebook,servico,131.93,37
+250,Manutenção de celular,servico,414.4,24
+251,Manutenção de celular,servico,282.4,38
+252,Fone 7,produto,464.05,23
+253,Manutenção de notebook,servico,487.24,14
+254,Capa 64,produto,167.62,19
+255,Carregador 72,produto,362.66,9
+256,Troca de tela,servico,147.07,39
+257,Instalação de software,servico,362.36,21
+258,Limpeza interna,servico,133.04,3
+259,Monitor 52,produto,134.08,49
+260,Troca de tela,servico,490.86,39
+261,Celular 52,produto,233.47,36
+262,Manutenção de notebook,servico,64.14,7
+263,Capa 26,produto,311.42,10
+264,Monitor 70,produto,323.89,8
+265,Carregador 87,produto,142.0,36
+266,Celular 45,produto,160.57,31
+267,Instalação de software,servico,343.34,25
+268,Instalação de software,servico,300.2,17
+269,HD 44,produto,466.48,32
+270,HD 77,produto,54.8,15
+271,Manutenção de celular,servico,188.42,29
+272,Monitor 2,produto,292.14,17
+273,Troca de tela,servico,144.07,18
+274,SSD 87,produto,60.91,40
+275,Notebook 58,produto,112.62,10
+276,HD 23,produto,296.52,43
+277,Capa 17,produto,48.93,14
+278,Capa 35,produto,433.62,28
+279,Manutenção de notebook,servico,225.88,27
+280,Manutenção de notebook,servico,311.99,47
+281,Manutenção de celular,servico,221.87,36
+282,Limpeza interna,servico,147.07,49
+283,Instalação de software,servico,162.23,49
+284,Limpeza interna,servico,98.06,19
+285,Manutenção de celular,servico,102.13,32
+286,Limpeza interna,servico,321.74,22
+287,Monitor 39,produto,488.94,18
+288,Limpeza interna,servico,289.39,40
+289,Instalação de software,servico,267.85,1
+290,Manutenção de notebook,servico,42.14,32
+291,Notebook 37,produto,175.45,32
+292,Celular 62,produto,335.28,7
+293,SSD 42,produto,64.35,23
+294,Manutenção de celular,servico,371.67,21
+295,SSD 36,produto,37.34,24
+296,Limpeza interna,servico,408.89,45
+297,Notebook 6,produto,481.82,25
+298,Celular 27,produto,473.38,6
+299,Limpeza interna,servico,406.38,2
+300,Celular 54,produto,70.9,17
+301,Fone 42,produto,231.15,38
+302,Troca de tela,servico,341.16,10
+303,Instalação de software,servico,58.37,25
+304,Instalação de software,servico,81.2,13
+305,Manutenção de celular,servico,82.61,40
+306,Manutenção de celular,servico,88.31,10
+307,Troca de tela,servico,87.57,35
+308,Fone 99,produto,133.81,12
+309,Teclado 69,produto,234.37,27
+310,Manutenção de celular,servico,366.03,19
+311,Monitor 96,produto,380.72,44
+312,SSD 42,produto,329.41,4
+313,Instalação de software,servico,195.68,5
+314,HD 16,produto,355.39,28
+315,SSD 23,produto,321.72,26
+316,Manutenção de notebook,servico,316.83,43
+317,Limpeza interna,servico,299.42,9
+318,HD 8,produto,421.0,41
+319,Notebook 66,produto,340.8,31
+320,HD 22,produto,90.75,38
+321,Manutenção de celular,servico,294.18,43
+322,Capa 8,produto,339.88,42
+323,Manutenção de notebook,servico,39.38,4
+324,Instalação de software,servico,404.91,20
+325,SSD 71,produto,219.83,19
+326,Troca de tela,servico,489.5,6
+327,Troca de tela,servico,197.6,11
+328,Limpeza interna,servico,82.37,33
+329,Manutenção de celular,servico,85.67,9
+330,Troca de tela,servico,459.2,27
+331,Instalação de software,servico,414.92,20
+332,Manutenção de celular,servico,278.56,47
+333,Capa 18,produto,395.0,24
+334,Manutenção de celular,servico,211.05,31
+335,Mouse 23,produto,332.96,16
+336,Manutenção de notebook,servico,350.99,1
+337,Carregador 77,produto,428.45,6
+338,Instalação de software,servico,124.26,3
+339,SSD 74,produto,321.76,16
+340,Mouse 54,produto,204.98,50
+341,Capa 27,produto,67.32,8
+342,Instalação de software,servico,388.99,18
+343,SSD 64,produto,208.61,43
+344,Instalação de software,servico,56.9,49
+345,Manutenção de celular,servico,287.38,9
+346,Limpeza interna,servico,275.67,8
+347,Teclado 34,produto,470.18,11
+348,Carregador 62,produto,484.48,45
+349,Instalação de software,servico,177.87,12
+350,Carregador 65,produto,377.3,27
+351,Manutenção de notebook,servico,364.07,15
+352,Fone 29,produto,289.08,33
+353,Teclado 59,produto,308.3,7
+354,Troca de tela,servico,222.9,26
+355,Manutenção de notebook,servico,222.94,31
+356,Teclado 86,produto,33.06,40
+357,Fone 38,produto,130.74,47
+358,Celular 59,produto,62.8,10
+359,HD 33,produto,64.78,49
+360,Limpeza interna,servico,425.44,35
+361,Manutenção de celular,servico,457.41,27
+362,HD 76,produto,232.5,41
+363,Limpeza interna,servico,282.94,17
+364,Monitor 80,produto,456.76,49
+365,Limpeza interna,servico,215.62,17
+366,Troca de tela,servico,400.41,9
+367,Celular 2,produto,214.16,28
+368,HD 5,produto,250.41,16
+369,Notebook 43,produto,424.55,1
+370,Troca de tela,servico,144.23,50
+371,Fone 20,produto,475.12,49
+372,Mouse 63,produto,207.81,46
+373,SSD 20,produto,69.94,31
+374,Manutenção de notebook,servico,137.53,28
+375,Carregador 46,produto,330.67,16
+376,Carregador 29,produto,375.52,36
+377,Celular 21,produto,437.69,49
+378,HD 80,produto,94.73,37
+379,Capa 82,produto,337.93,12
+380,Limpeza interna,servico,370.75,22
+381,Manutenção de celular,servico,267.12,3
+382,Carregador 62,produto,488.34,23
+383,Limpeza interna,servico,221.96,1
+384,Limpeza interna,servico,261.02,42
+385,Instalação de software,servico,181.8,19
+386,Limpeza interna,servico,170.83,40
+387,Fone 40,produto,283.96,28
+388,Instalação de software,servico,209.39,5
+389,Instalação de software,servico,255.82,33
+390,Troca de tela,servico,472.64,32
+391,Manutenção de celular,servico,397.26,18
+392,Notebook 94,produto,304.35,21
+393,Instalação de software,servico,113.96,44
+394,Manutenção de celular,servico,196.32,5
+395,Carregador 58,produto,422.03,36
+396,Teclado 93,produto,104.47,26
+397,Instalação de software,servico,76.7,33
+398,HD 67,produto,53.62,10
+399,Manutenção de celular,servico,388.21,29
+400,Instalação de software,servico,461.15,9
+401,Teclado 8,produto,211.77,31
+402,Manutenção de celular,servico,461.44,9
+403,Capa 86,produto,443.49,47
+404,Troca de tela,servico,433.35,9
+405,Carregador 5,produto,141.15,17
+406,Instalação de software,servico,155.88,28
+407,Limpeza interna,servico,418.65,38
+408,Troca de tela,servico,479.76,47
+409,Troca de tela,servico,293.58,10
+410,Teclado 58,produto,39.85,40
+411,Limpeza interna,servico,158.47,28
+412,Monitor 36,produto,217.73,21
+413,Troca de tela,servico,351.48,3
+414,Instalação de software,servico,260.53,35
+415,Manutenção de celular,servico,204.79,7
+416,Manutenção de celular,servico,290.73,19
+417,SSD 34,produto,250.52,23
+418,Monitor 85,produto,322.24,16
+419,Troca de tela,servico,50.71,5
+420,Instalação de software,servico,207.36,39
+421,Instalação de software,servico,433.23,49
+422,Celular 96,produto,258.97,19
+423,Notebook 54,produto,371.35,46
+424,Teclado 92,produto,454.59,11
+425,Instalação de software,servico,154.98,44
+426,Troca de tela,servico,168.53,46
+427,Mouse 55,produto,291.6,49
+428,Manutenção de notebook,servico,351.55,7
+429,Manutenção de notebook,servico,436.29,28
+430,Limpeza interna,servico,421.46,50
+431,Manutenção de notebook,servico,152.3,18
+432,Notebook 98,produto,214.56,21
+433,Manutenção de notebook,servico,46.8,12
+434,Instalação de software,servico,63.76,11
+435,Celular 77,produto,229.7,43
+436,SSD 97,produto,439.74,7
+437,Fone 44,produto,82.44,29
+438,SSD 24,produto,165.37,6
+439,Monitor 91,produto,112.9,6
+440,Notebook 87,produto,486.74,8
+441,Instalação de software,servico,176.69,30
+442,Instalação de software,servico,283.21,8
+443,Manutenção de celular,servico,316.81,33
+444,Manutenção de notebook,servico,84.38,22
+445,Limpeza interna,servico,155.41,36
+446,Manutenção de notebook,servico,462.79,16
+447,Manutenção de celular,servico,176.45,17
+448,Troca de tela,servico,314.96,21
+449,Monitor 87,produto,28.79,19
+450,Limpeza interna,servico,379.72,25
+451,Troca de tela,servico,34.66,42
+452,Teclado 2,produto,385.71,36
+453,HD 91,produto,362.7,46
+454,Manutenção de notebook,servico,165.44,10
+455,Notebook 45,produto,289.8,41
+456,Manutenção de celular,servico,92.72,8
+457,Manutenção de notebook,servico,397.11,10
+458,SSD 86,produto,145.4,18
+459,Instalação de software,servico,234.17,22
+460,Capa 77,produto,477.67,11
+461,Instalação de software,servico,188.78,25
+462,Manutenção de celular,servico,409.35,12
+463,Troca de tela,servico,310.94,31
+464,Fone 57,produto,426.24,40
+465,Monitor 12,produto,112.3,31
+466,Instalação de software,servico,335.33,30
+467,Capa 74,produto,151.32,15
+468,Manutenção de celular,servico,57.29,3
+469,Limpeza interna,servico,388.17,49
+470,Troca de tela,servico,491.39,20
+471,Fone 98,produto,111.82,45
+472,Teclado 4,produto,299.37,13
+473,Manutenção de celular,servico,24.03,17
+474,Limpeza interna,servico,61.18,12
+475,Monitor 66,produto,146.22,36
+476,SSD 4,produto,413.25,22
+477,Manutenção de notebook,servico,162.84,17
+478,Notebook 73,produto,165.15,30
+479,Manutenção de celular,servico,497.85,21
+480,Celular 31,produto,140.04,9
+481,Capa 26,produto,48.71,1
+482,Instalação de software,servico,461.21,45
+483,Instalação de software,servico,225.45,13
+484,Fone 26,produto,315.35,33
+485,Troca de tela,servico,53.01,16
+486,Manutenção de notebook,servico,82.91,34
+487,Troca de tela,servico,249.17,39
+488,Instalação de software,servico,281.86,27
+489,Fone 65,produto,46.08,20
+490,Manutenção de celular,servico,416.02,28
+491,Troca de tela,servico,475.15,17
+492,Mouse 5,produto,344.38,36
+493,Celular 57,produto,44.75,35
+494,Teclado 69,produto,432.14,19
+495,SSD 76,produto,434.87,13
+496,Troca de tela,servico,41.81,35
+497,Monitor 59,produto,77.01,34
+498,Capa 86,produto,56.01,30
+499,Manutenção de celular,servico,279.05,41
+500,SSD 11,produto,407.31,41
+501,Celular 8,produto,372.77,15
+502,Instalação de software,servico,419.78,42
+503,Manutenção de celular,servico,276.72,7
+504,Celular 55,produto,357.59,10
+505,Instalação de software,servico,174.72,29
+506,Limpeza interna,servico,167.06,8
+507,Fone 32,produto,61.37,9
+508,Manutenção de notebook,servico,466.0,35
+509,Capa 50,produto,69.23,19
+510,Troca de tela,servico,30.64,3
+511,Carregador 23,produto,301.06,9
+512,Mouse 48,produto,252.57,26
+513,Manutenção de notebook,servico,341.75,19
+514,Manutenção de celular,servico,159.66,33
+515,Troca de tela,servico,85.63,33
+516,Manutenção de notebook,servico,400.87,50
+517,Manutenção de notebook,servico,125.02,12
+518,Carregador 33,produto,473.16,49
+519,Limpeza interna,servico,446.61,46
+520,Manutenção de notebook,servico,230.81,12
+521,Capa 59,produto,34.31,4
+522,Manutenção de celular,servico,399.1,20
+523,Manutenção de notebook,servico,452.58,37
+524,SSD 42,produto,177.42,5
+525,Teclado 38,produto,469.0,29
+526,Monitor 40,produto,445.96,15
+527,SSD 69,produto,298.36,24
+528,Limpeza interna,servico,180.11,19
+529,Notebook 24,produto,231.5,22
+530,Limpeza interna,servico,173.91,19
+531,Limpeza interna,servico,22.6,17
+532,Limpeza interna,servico,487.25,8
+533,Celular 52,produto,249.23,5
+534,Manutenção de celular,servico,358.24,27
+535,Troca de tela,servico,139.86,44
+536,Teclado 58,produto,376.75,40
+537,Manutenção de notebook,servico,233.41,31
+538,Monitor 29,produto,451.34,1
+539,SSD 28,produto,251.22,10
+540,Troca de tela,servico,278.12,23
+541,Celular 21,produto,296.49,49
+542,Celular 17,produto,425.46,12
+543,Carregador 44,produto,379.43,38
+544,Manutenção de celular,servico,116.44,9
+545,Manutenção de celular,servico,264.07,6
+546,Manutenção de notebook,servico,244.77,1
+547,Monitor 78,produto,498.66,42
+548,Limpeza interna,servico,61.76,1
+549,Fone 8,produto,352.19,46
+550,Manutenção de notebook,servico,212.24,33
+551,Instalação de software,servico,399.16,24
+552,Mouse 95,produto,134.78,37
+553,Carregador 88,produto,186.25,8
+554,Mouse 70,produto,27.17,39
+555,Monitor 34,produto,152.18,40
+556,Carregador 34,produto,257.98,25
+557,Capa 52,produto,498.71,24
+558,Limpeza interna,servico,342.12,38
+559,Instalação de software,servico,154.69,44
+560,Limpeza interna,servico,46.02,37
+561,Capa 59,produto,32.53,15
+562,Troca de tela,servico,168.68,38
+563,Fone 64,produto,484.53,34
+564,Manutenção de notebook,servico,115.06,33
+565,Instalação de software,servico,152.49,5
+566,Limpeza interna,servico,225.78,35
+567,HD 25,produto,40.42,40
+568,Teclado 35,produto,261.53,40
+569,Notebook 9,produto,245.77,46
+570,Manutenção de celular,servico,197.34,11
+571,Instalação de software,servico,39.43,9
+572,SSD 3,produto,208.79,7
+573,Notebook 80,produto,436.92,20
+574,Teclado 40,produto,340.6,42
+575,Instalação de software,servico,249.43,46
+576,Troca de tela,servico,315.38,41
+577,Celular 93,produto,214.57,13
+578,Monitor 100,produto,193.15,24
+579,Carregador 40,produto,164.54,35
+580,SSD 79,produto,36.18,18
+581,Manutenção de notebook,servico,399.23,38
+582,Manutenção de notebook,servico,412.66,9
+583,Celular 64,produto,36.81,6
+584,Troca de tela,servico,297.38,41
+585,Teclado 50,produto,335.18,20
+586,Notebook 68,produto,49.2,14
+587,Troca de tela,servico,324.92,14
+588,Monitor 7,produto,120.24,26
+589,Manutenção de notebook,servico,258.1,12
+590,Instalação de software,servico,266.15,3
+591,Notebook 82,produto,264.63,22
+592,Manutenção de celular,servico,184.95,7
+593,HD 33,produto,206.6,20
+594,Manutenção de notebook,servico,22.74,18
+595,Troca de tela,servico,447.06,29
+596,Capa 68,produto,23.53,13
+597,Notebook 66,produto,426.8,38
+598,Teclado 27,produto,96.89,10
+599,Troca de tela,servico,80.74,5
+600,Limpeza interna,servico,471.68,18
+601,Troca de tela,servico,341.69,15
+602,Capa 5,produto,293.11,38
+603,Fone 23,produto,358.56,25
+604,Teclado 51,produto,148.53,20
+605,Troca de tela,servico,41.26,45
+606,Troca de tela,servico,168.13,5
+607,Monitor 78,produto,227.38,27
+608,Manutenção de notebook,servico,266.91,38
+609,Capa 22,produto,438.52,13
+610,Manutenção de notebook,servico,265.44,32
+611,Manutenção de notebook,servico,305.55,17
+612,Manutenção de notebook,servico,367.61,38
+613,Notebook 65,produto,146.71,25
+614,Troca de tela,servico,105.41,29
+615,Mouse 21,produto,106.12,25
+616,Carregador 58,produto,452.34,1
+617,Troca de tela,servico,264.66,41
+618,Notebook 87,produto,92.75,7
+619,Fone 10,produto,61.62,23
+620,Carregador 49,produto,153.99,35
+621,Instalação de software,servico,377.14,19
+622,Troca de tela,servico,364.04,33
+623,Capa 93,produto,78.73,40
+624,Mouse 70,produto,425.11,25
+625,SSD 72,produto,72.88,35
+626,Troca de tela,servico,30.52,24
+627,Troca de tela,servico,480.36,49
+628,Mouse 16,produto,344.49,3
+629,SSD 96,produto,447.26,25
+630,Fone 78,produto,433.43,7
+631,Monitor 63,produto,216.41,6
+632,Celular 91,produto,289.11,3
+633,Carregador 51,produto,402.79,7
+634,Carregador 84,produto,147.34,1
+635,SSD 35,produto,317.69,13
+636,Limpeza interna,servico,164.99,38
+637,Limpeza interna,servico,438.51,13
+638,Manutenção de notebook,servico,365.69,33
+639,Fone 10,produto,82.29,36
+640,Limpeza interna,servico,286.41,36
+641,Instalação de software,servico,372.49,17
+642,Troca de tela,servico,442.68,47
+643,Limpeza interna,servico,169.32,37
+644,HD 85,produto,440.85,17
+645,Mouse 22,produto,336.11,28
+646,Limpeza interna,servico,169.79,9
+647,Monitor 44,produto,190.45,32
+648,SSD 8,produto,112.94,25
+649,Troca de tela,servico,355.09,41
+650,Monitor 58,produto,232.93,28
+651,Mouse 9,produto,311.54,11
+652,SSD 38,produto,479.08,12
+653,SSD 45,produto,159.52,27
+654,Mouse 4,produto,415.81,28
+655,Troca de tela,servico,359.44,33
+656,Capa 9,produto,415.33,14
+657,Manutenção de notebook,servico,61.11,24
+658,Fone 24,produto,62.49,46
+659,Instalação de software,servico,151.84,45
+660,Instalação de software,servico,154.41,39
+661,Troca de tela,servico,67.76,15
+662,Instalação de software,servico,475.62,20
+663,Celular 69,produto,171.37,12
+664,Manutenção de notebook,servico,478.75,10
+665,Limpeza interna,servico,161.07,9
+666,Manutenção de notebook,servico,76.01,40
+667,Manutenção de notebook,servico,489.07,16
+668,Troca de tela,servico,77.62,30
+669,Limpeza interna,servico,406.9,4
+670,SSD 90,produto,410.32,1
+671,Troca de tela,servico,383.25,1
+672,Capa 11,produto,491.45,50
+673,Manutenção de notebook,servico,412.75,45
+674,Monitor 80,produto,463.2,26
+675,Carregador 61,produto,68.41,43
+676,Troca de tela,servico,121.71,2
+677,Notebook 61,produto,192.69,5
+678,Mouse 4,produto,92.06,5
+679,Teclado 94,produto,214.86,22
+680,Troca de tela,servico,490.23,43
+681,Notebook 41,produto,296.11,26
+682,Instalação de software,servico,205.22,37
+683,Monitor 43,produto,190.16,8
+684,Troca de tela,servico,243.31,33
+685,Manutenção de celular,servico,87.77,50
+686,Limpeza interna,servico,162.72,46
+687,Manutenção de notebook,servico,163.34,45
+688,SSD 67,produto,229.64,14
+689,Manutenção de notebook,servico,353.73,31
+690,Limpeza interna,servico,300.15,7
+691,Limpeza interna,servico,249.56,24
+692,Notebook 58,produto,441.21,37
+693,Mouse 10,produto,240.77,12
+694,Limpeza interna,servico,430.1,12
+695,Carregador 44,produto,79.62,9
+696,Mouse 29,produto,184.93,47
+697,Carregador 28,produto,28.57,34
+698,Limpeza interna,servico,371.27,41
+699,Instalação de software,servico,197.05,50
+700,Notebook 29,produto,357.01,38
+701,Manutenção de celular,servico,409.83,9
+702,Carregador 86,produto,262.92,33
+703,Fone 67,produto,434.58,5
+704,Troca de tela,servico,166.66,50
+705,Notebook 99,produto,408.91,3
+706,Troca de tela,servico,496.43,16
+707,Troca de tela,servico,438.9,28
+708,Manutenção de celular,servico,208.61,4
+709,Manutenção de celular,servico,209.66,30
+710,HD 31,produto,58.33,39
+711,Carregador 69,produto,442.63,42
+712,Limpeza interna,servico,491.47,29
+713,Fone 72,produto,471.27,33
+714,Fone 55,produto,256.26,5
+715,Manutenção de notebook,servico,191.95,35
+716,Carregador 90,produto,210.86,43
+717,Carregador 11,produto,121.26,3
+718,Monitor 80,produto,139.23,2
+719,Capa 35,produto,195.77,22
+720,Capa 97,produto,174.28,28
+721,HD 53,produto,279.38,43
+722,Capa 10,produto,318.73,9
+723,Instalação de software,servico,184.31,10
+724,Limpeza interna,servico,199.77,27
+725,Teclado 40,produto,355.09,19
+726,HD 80,produto,260.37,33
+727,Manutenção de celular,servico,73.97,30
+728,Limpeza interna,servico,387.58,27
+729,HD 65,produto,422.3,19
+730,Mouse 56,produto,217.87,27
+731,Notebook 88,produto,241.76,3
+732,Troca de tela,servico,306.57,32
+733,Troca de tela,servico,427.58,17
+734,Monitor 57,produto,462.27,37
+735,HD 33,produto,348.04,18
+736,Notebook 54,produto,25.08,15
+737,Capa 45,produto,495.76,36
+738,Notebook 58,produto,131.38,44
+739,Limpeza interna,servico,163.96,16
+740,Fone 9,produto,101.07,33
+741,Manutenção de celular,servico,469.26,1
+742,Notebook 27,produto,292.68,33
+743,Carregador 15,produto,48.32,19
+744,Carregador 7,produto,483.82,2
+745,Troca de tela,servico,50.45,11
+746,Notebook 65,produto,297.72,10
+747,Carregador 19,produto,450.84,25
+748,Carregador 58,produto,206.26,27
+749,Limpeza interna,servico,309.9,43
+750,Limpeza interna,servico,303.02,43
+751,Carregador 70,produto,104.97,43
+752,Mouse 26,produto,141.29,11
+753,Fone 53,produto,389.07,19
+754,Manutenção de celular,servico,68.15,26
+755,Troca de tela,servico,481.72,8
+756,Instalação de software,servico,328.52,49
+757,Limpeza interna,servico,309.01,8
+758,Limpeza interna,servico,352.51,18
+759,Notebook 37,produto,248.8,35
+760,Manutenção de celular,servico,317.26,19
+761,Manutenção de notebook,servico,462.46,23
+762,Carregador 10,produto,253.46,12
+763,Mouse 34,produto,366.27,27
+764,Celular 32,produto,257.99,42
+765,Troca de tela,servico,449.88,25
+766,Manutenção de celular,servico,424.85,29
+767,Instalação de software,servico,360.99,14
+768,Manutenção de notebook,servico,146.12,20
+769,Celular 50,produto,430.58,31
+770,Manutenção de notebook,servico,259.85,6
+771,Limpeza interna,servico,108.74,28
+772,Capa 10,produto,152.72,37
+773,Capa 72,produto,300.42,19
+774,Capa 14,produto,281.09,5
+775,Fone 10,produto,208.84,13
+776,Limpeza interna,servico,138.15,19
+777,Manutenção de notebook,servico,226.19,10
+778,Limpeza interna,servico,210.88,5
+779,Limpeza interna,servico,203.44,27
+780,Troca de tela,servico,429.8,1
+781,Instalação de software,servico,143.35,12
+782,SSD 5,produto,188.7,35
+783,Manutenção de celular,servico,47.12,27
+784,Manutenção de celular,servico,439.64,13
+785,Celular 20,produto,446.27,22
+786,Troca de tela,servico,235.02,2
+787,Manutenção de notebook,servico,276.23,36
+788,Mouse 7,produto,149.94,18
+789,SSD 44,produto,184.9,8
+790,Teclado 85,produto,483.25,9
+791,Limpeza interna,servico,233.07,29
+792,Instalação de software,servico,461.18,29
+793,Manutenção de celular,servico,176.21,11
+794,Limpeza interna,servico,413.47,16
+795,Manutenção de celular,servico,474.65,20
+796,Manutenção de notebook,servico,339.97,13
+797,Fone 39,produto,363.37,25
+798,HD 81,produto,367.19,45
+799,Teclado 15,produto,371.23,50
+800,Troca de tela,servico,291.0,48
+801,SSD 82,produto,183.18,16
+802,Notebook 91,produto,47.65,30
+803,Carregador 91,produto,280.92,48
+804,Instalação de software,servico,260.32,19
+805,Manutenção de notebook,servico,372.97,10
+806,Manutenção de celular,servico,482.31,36
+807,Instalação de software,servico,213.68,19
+808,Monitor 22,produto,44.82,14
+809,Manutenção de notebook,servico,483.9,17
+810,Instalação de software,servico,168.21,37
+811,Troca de tela,servico,65.9,2
+812,Fone 79,produto,126.79,43
+813,Manutenção de notebook,servico,62.44,24
+814,Manutenção de celular,servico,20.17,19
+815,Manutenção de celular,servico,291.6,46
+816,Limpeza interna,servico,168.46,4
+817,Monitor 89,produto,78.2,11
+818,Capa 81,produto,370.24,25
+819,Capa 50,produto,157.89,23
+820,Teclado 100,produto,327.04,43
+821,Mouse 90,produto,400.28,45
+822,Limpeza interna,servico,394.51,31
+823,Monitor 79,produto,72.05,21
+824,Manutenção de notebook,servico,486.01,29
+825,Celular 57,produto,101.91,43
+826,Limpeza interna,servico,98.94,19
+827,Celular 44,produto,81.58,7
+828,Fone 9,produto,233.55,24
+829,Teclado 8,produto,439.03,22
+830,HD 44,produto,269.25,22
+831,Fone 91,produto,354.42,10
+832,Troca de tela,servico,58.25,8
+833,Instalação de software,servico,326.38,5
+834,Limpeza interna,servico,427.52,16
+835,Monitor 46,produto,419.43,25
+836,Instalação de software,servico,493.59,40
+837,Monitor 41,produto,338.53,23
+838,Teclado 76,produto,112.09,41
+839,SSD 48,produto,158.15,34
+840,Capa 66,produto,410.91,11
+841,Manutenção de notebook,servico,302.86,41
+842,Celular 95,produto,493.57,29
+843,Instalação de software,servico,120.41,32
+844,Fone 40,produto,92.65,46
+845,Capa 40,produto,376.84,5
+846,Notebook 62,produto,409.05,47
+847,Manutenção de celular,servico,348.08,9
+848,Teclado 33,produto,87.34,9
+849,Manutenção de notebook,servico,485.47,23
+850,HD 98,produto,56.92,47
+851,Troca de tela,servico,24.15,43
+852,Capa 24,produto,464.8,46
+853,Troca de tela,servico,390.01,5
+854,Troca de tela,servico,255.5,39
+855,Fone 6,produto,491.55,24
+856,Monitor 94,produto,318.9,22
+857,Troca de tela,servico,133.6,29
+858,Troca de tela,servico,175.18,20
+859,Carregador 79,produto,417.05,29
+860,HD 29,produto,365.35,26
+861,HD 4,produto,171.52,31
+862,Teclado 22,produto,251.74,9
+863,Fone 9,produto,296.81,44
+864,Teclado 9,produto,235.68,35
+865,Limpeza interna,servico,63.19,41
+866,Troca de tela,servico,498.2,42
+867,Celular 4,produto,459.83,39
+868,Monitor 2,produto,139.05,20
+869,Manutenção de notebook,servico,354.25,30
+870,Capa 90,produto,87.41,17
+871,Manutenção de notebook,servico,333.56,1
+872,Monitor 49,produto,38.38,48
+873,Monitor 100,produto,458.09,22
+874,Mouse 30,produto,472.04,19
+875,Celular 79,produto,158.91,43
+876,Celular 66,produto,400.55,18
+877,Limpeza interna,servico,33.19,35
+878,Teclado 72,produto,479.35,23
+879,Notebook 19,produto,128.31,26
+880,Manutenção de notebook,servico,132.8,28
+881,Troca de tela,servico,86.39,14
+882,Troca de tela,servico,315.16,34
+883,Celular 54,produto,224.95,16
+884,HD 33,produto,399.76,45
+885,HD 76,produto,390.67,9
+886,Carregador 48,produto,441.12,11
+887,Manutenção de celular,servico,444.76,44
+888,Fone 8,produto,178.09,41
+889,Capa 94,produto,408.15,37
+890,HD 91,produto,82.91,18
+891,Fone 53,produto,114.62,28
+892,HD 9,produto,275.92,25
+893,Instalação de software,servico,190.11,28
+894,Fone 2,produto,318.82,18
+895,HD 60,produto,27.88,20
+896,Troca de tela,servico,136.02,26
+897,HD 35,produto,494.13,3
+898,Limpeza interna,servico,296.95,18
+899,Troca de tela,servico,215.94,42
+900,Troca de tela,servico,181.36,48
+901,Instalação de software,servico,182.76,50
+902,Manutenção de celular,servico,383.32,9
+903,Capa 26,produto,464.21,13
+904,HD 71,produto,91.54,24
+905,Limpeza interna,servico,154.99,25
+906,HD 86,produto,292.02,4
+907,Mouse 32,produto,146.01,33
+908,Teclado 52,produto,148.85,41
+909,Mouse 82,produto,160.43,44
+910,Limpeza interna,servico,375.66,3
+911,Manutenção de celular,servico,419.38,20
+912,Celular 23,produto,416.48,39
+913,Celular 85,produto,103.96,23
+914,Troca de tela,servico,152.38,12
+915,SSD 31,produto,228.48,1
+916,Limpeza interna,servico,233.59,10
+917,Manutenção de celular,servico,484.77,31
+918,Fone 32,produto,26.46,40
+919,Manutenção de celular,servico,82.35,47
+920,SSD 91,produto,456.51,34
+921,Manutenção de notebook,servico,337.79,5
+922,SSD 13,produto,194.21,9
+923,Troca de tela,servico,391.03,22
+924,Troca de tela,servico,171.47,16
+925,Manutenção de notebook,servico,194.61,7
+926,Celular 73,produto,273.28,46
+927,Manutenção de notebook,servico,129.49,1
+928,Manutenção de notebook,servico,467.79,47
+929,Capa 2,produto,375.3,40
+930,Carregador 60,produto,363.84,35
+931,SSD 64,produto,314.17,15
+932,Carregador 92,produto,353.52,42
+933,Celular 82,produto,69.6,42
+934,Manutenção de notebook,servico,173.6,1
+935,Notebook 67,produto,351.53,6
+936,Manutenção de celular,servico,483.12,15
+937,Manutenção de celular,servico,170.42,14
+938,Instalação de software,servico,372.56,3
+939,Mouse 90,produto,482.13,6
+940,Carregador 16,produto,317.51,18
+941,Manutenção de notebook,servico,248.28,43
+942,Capa 29,produto,205.52,5
+943,Manutenção de notebook,servico,418.13,14
+944,Troca de tela,servico,62.9,20
+945,Manutenção de celular,servico,57.27,39
+946,Capa 1,produto,181.37,7
+947,Instalação de software,servico,457.48,19
+948,Teclado 48,produto,239.21,6
+949,Carregador 3,produto,146.44,1
+950,Manutenção de celular,servico,285.32,9
+951,Manutenção de notebook,servico,397.17,1
+952,Manutenção de celular,servico,329.89,36
+953,Teclado 86,produto,437.23,26
+954,Instalação de software,servico,91.99,37
+955,Instalação de software,servico,445.67,15
+956,Mouse 2,produto,382.42,21
+957,SSD 34,produto,153.32,36
+958,Notebook 51,produto,401.79,3
+959,Limpeza interna,servico,254.21,4
+960,Manutenção de notebook,servico,216.83,24
+961,Limpeza interna,servico,334.94,48
+962,Limpeza interna,servico,344.79,30
+963,Limpeza interna,servico,333.12,6
+964,Capa 94,produto,346.83,35
+965,Capa 58,produto,161.82,17
+966,Limpeza interna,servico,230.46,46
+967,Limpeza interna,servico,355.99,41
+968,Manutenção de notebook,servico,130.4,45
+969,Notebook 23,produto,115.97,32
+970,Celular 70,produto,133.63,38
+971,Carregador 80,produto,205.99,20
+972,Capa 80,produto,487.06,11
+973,Teclado 3,produto,300.02,42
+974,Monitor 70,produto,73.91,39
+975,Teclado 32,produto,111.52,36
+976,Manutenção de celular,servico,477.17,34
+977,Carregador 9,produto,305.0,22
+978,Manutenção de notebook,servico,203.36,3
+979,Manutenção de notebook,servico,197.64,42
+980,Mouse 39,produto,168.86,33
+981,Carregador 76,produto,80.1,9
+982,Notebook 86,produto,162.63,43
+983,Troca de tela,servico,269.96,48
+984,Instalação de software,servico,51.73,46
+985,Troca de tela,servico,176.81,49
+986,Instalação de software,servico,71.67,22
+987,Manutenção de celular,servico,249.46,49
+988,Troca de tela,servico,355.87,28
+989,Teclado 52,produto,422.07,20
+990,Notebook 65,produto,293.0,43
+991,Monitor 81,produto,201.07,3
+992,Mouse 19,produto,190.83,35
+993,HD 91,produto,437.04,25
+994,Capa 74,produto,367.1,34
+995,Limpeza interna,servico,271.46,7
+996,Manutenção de celular,servico,256.41,7
+997,Notebook 81,produto,111.95,10
+998,Carregador 30,produto,279.84,23
+999,Instalação de software,servico,265.0,24
+1000,HD 86,produto,194.08,10

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <form action="pagina_destino.html" method="post">
+
+        <P>
+            <label for="login">E-mail</label>
+            <input type="text" placeholder="Seu e-mail" id="login">
+        </P>
+
+        <p>
+            <label for="senha">Senha</label>
+            <input type="text" placeholder="Sua senha" id="senha">
+        </p>
+
+
+    <p>
+        Estado civil: 
+      
+        <input type="radio" id="solteiro" name="estado_civil"/>
+        <label for="solteiro">Solteiro</label>
+
+        <input type="radio" id="casado" name="estado_civil"/>
+        <label for="casado">Casado</label>
+
+        <input type="radio" id="divorciado" name="estado_civil">
+        <label for="divorciado">Divorciado</label>
+    </p>
+
+    <p>
+        <input type="checkbox" id="termos">
+        <label for="termos">concordo com os termos de uso</label>
+    </p>
+
+    <p>
+        Estados: 
+        <select>
+            
+            <option value="AC">Acre</option>
+            <option value="AL">Alagoas</option>
+            <option value="AP">Amapá</option>
+            <option value="AM">Amazonas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espirito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MS">Mato Grosso do Sul</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="PI">Piauí</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RN">Rio Grande do Norte</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="RR">Roraima</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+            <option value="SE">Sergipe</option>
+            <option value="TO">Tocantins</option>
+        </select>
+    </p>
+    
+      
+
+        <p> <textarea name="textarea" id="textarea" placeholder="digite sua mensagem"></textarea> </p>
+
+          <input type="submit"    value="log in">
+</body>
+</html>
