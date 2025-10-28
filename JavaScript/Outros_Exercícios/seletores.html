@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores</title>
+    <style>
+        .paragrafo {
+            font-size: 48px;
+            color: #05bb00;
+            background-color: #0208a0;  
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo-principal">Título da página</h1>
+    <ul>
+        <li>Página inicial</li>
+        <li>Contato</li>
+    </ul>
+    <p>primeiro parágrafo</p>
+    <p>segundo parágrafo</p>
+    <p>terceiro parágrafo</p>
+
+    <button id="botao">clique no botão</button>
+    <script>
+        const mudaTitulo = (novoTitulo) => {
+            const titulo = document.getElementById('titulo-principal')
+            titulo.innerText = novoTitulo
+        }
+
+        setTimeout(()=> mudaTitulo('Com essa função conseguimos alterar o conteúdo do ID titulo-principal, antes da mudança o sistema fará uma pausa de 02 segundos'), 2000)
+
+        const listaDeLi = document.getElementsByTagName('li')
+
+        const listaDeCores = ["#d60000", '#05f7ab', '#f9d335']
+
+        const listaDeParagrafos = document.getElementsByTagName('p')
+        
+        const botao = document.getElementsByTagName('button')[0]
+
+        setTimeout(() => botao.innerText = 'alterando o texto de um botão com intervalo de 3 segundos', 3000)
+        
+        for (let paragrafo of listaDeParagrafos){
+            paragrafo.classList = "paragrafo"
+        }
+
+        for (let li in listaDeLi){
+            listaDeLi[li].style.color = listaDeCores[li]
+        }
+        
+        
+
+        
+        </script>
+</body>
+</html>

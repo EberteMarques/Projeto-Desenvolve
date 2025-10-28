@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Botão Curtir</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    input, button {
+      padding: 8px;
+      font-size: 16px;
+    }
+    #resultado {
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>Quem curtiu?</h2>
+  <input type="text" id="nomeInput" placeholder="Digite seu nome">
+  <button onclick="curtir()">Curtir</button>
+  <p id="resultado">Ninguém curtiu</p>
+
+  <script>
+    const curtidores = [];
+
+    function curtir() {
+      const nome = document.getElementById('nomeInput').value.trim();
+      if (nome && !curtidores.includes(nome)) {
+        curtidores.push(nome);
+      }
+
+      const resultado = document.getElementById('resultado');
+      const total = curtidores.length;
+
+      if (total === 0) {
+        resultado.textContent = "Ninguém curtiu";
+      } else if (total === 1) {
+        resultado.textContent = `${curtidores[0]} curtiu`;
+      } else if (total === 2) {
+        resultado.textContent = `${curtidores[0]} e ${curtidores[1]} curtiram`;
+      } else {
+        resultado.textContent = `${curtidores[0]}, ${curtidores[1]} e mais ${total - 2} pessoas curtiram`;
+      }
+
+      document.getElementById('nomeInput').value = '';
+    }
+  </script>
+</body>
+</html>
