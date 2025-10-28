@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Lista de Tarefas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    input, button {
+      padding: 8px;
+      margin: 5px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .descricao {
+      flex-grow: 1;
+      margin-left: 10px;
+    }
+    .concluida {
+      text-decoration: line-through;
+      color: green;
+      font-style: italic;
+    }
+    .nao-concluida {
+      color: red;
+      font-weight: bold;
+    }
+    .excluir {
+      margin-left: 10px;
+      background-color: #f44336;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+    .excluir:hover {
+      background-color: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+  <h2>Minha Lista de Tarefas</h2>
+  <input type="text" id="tarefaInput" placeholder="Descrição da tarefa">
+  <button onclick="adicionarTarefa()">Adicionar</button>
+  <ul id="listaTarefas"></ul>
+
+  <script>
+    let tarefas = JSON.parse(localStorage.getItem('tarefas')) || [];
+
+    function salvarLocalStorage() {
+      localStorage.setItem('tarefas', JSON.stringify(tarefas));
+    }
+
+    function renderizarTarefas() {
+      const lista = document.getElementById('listaTarefas');
+      lista.innerHTML = '';
+
+      tarefas.forEach((tarefa, index) => {
+        const item = document.createElement('li');
+
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.checked = tarefa.status;
+        checkbox.onchange = () => {
+          tarefa.status = checkbox.checked;
+          salvarLocalStorage();
+          renderizarTarefas();
+        };
+
+        const descricao = document.createElement('span');
+        descricao.textContent = tarefa.descricao;
+        descricao.className = 'descricao ' + (tarefa.status ? 'concluida' : 'nao-concluida');
+
+        const botaoExcluir = document.createElement('button');
+        botaoExcluir.textContent = 'Excluir';
+        botaoExcluir.className = 'excluir';
+        botaoExcluir.onclick = () => {
+          tarefas.splice(index, 1);
+          salvarLocalStorage();
+          renderizarTarefas();
+        };
+
+        item.appendChild(checkbox);
+        item.appendChild(descricao);
+        item.appendChild(botaoExcluir);
+        lista.appendChild(item);
+      });
+    }
+
+    function adicionarTarefa() {
+      const input = document.getElementById('tarefaInput');
+      const descricao = input.value.trim();
+      if (descricao) {
+        tarefas.push({ descricao, status: false });
+        salvarLocalStorage();
+        renderizarTarefas();
+        input.value = '';
+      }
+    }
+
+    // Inicializa a lista ao carregar a página
+    renderizarTarefas();
+  </script>
+</body>
+</html>

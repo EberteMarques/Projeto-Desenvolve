@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Busca de Usuários GitHub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    input, button {
+      margin: 5px;
+      padding: 8px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 10px 0;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+    }
+    img {
+      width: 50px;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Buscar Usuários no GitHub</h2>
+  <input type="text" id="buscaInput" placeholder="Digite o nome do usuário">
+  <button onclick="buscarUsuarios()">Buscar</button>
+  <ul id="resultado"></ul>
+
+  <script>
+    async function buscarUsuarios() {
+      const termo = document.getElementById('buscaInput').value.trim();
+      const lista = document.getElementById('resultado');
+      lista.innerHTML = '';
+
+      if (!termo) {
+        lista.innerHTML = '<li>Digite um nome para buscar.</li>';
+        return;
+      }
+
+      try {
+        const resposta = await fetch(`https://api.github.com/search/users?q=${encodeURIComponent(termo)}`);
+        const dados = await resposta.json();
+
+        if (dados.items && dados.items.length > 0) {
+          dados.items.forEach(usuario => {
+            const item = document.createElement('li');
+            item.innerHTML = `
+              <img src="${usuario.avatar_url}" alt="Avatar">
+              <strong>${usuario.login}</strong> - <a href="${usuario.html_url}" target="_blank">Ver perfil</a>
+            `;
+            lista.appendChild(item);
+          });
+        } else {
+          lista.innerHTML = '<li>Não foram encontrados usuários para esta pesquisa.</li>';
+        }
+      } catch (erro) {
+        lista.innerHTML = '<li>Erro ao buscar usuários. Tente novamente mais tarde.</li>';
+        console.error(erro);
+      }
+    }
+  </script>
+</body>
+</html>

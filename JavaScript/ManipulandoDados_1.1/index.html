@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Botão Curtir</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    input, button {
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Quem curtiu?</h2>
+  <input type="text" id="nomeInput" placeholder="Digite seu nome">
+  <button onclick="curtir()">Curtir</button>
+  <button onclick="limpar()">Limpar</button>
+  <p id="mensagem">Ninguém curtiu</p>
+
+  <script>
+    let pessoas = JSON.parse(localStorage.getItem('curtidas')) || [];
+
+    function atualizarMensagem() {
+      const msg = document.getElementById('mensagem');
+      const total = pessoas.length;
+
+      if (total === 0) {
+        msg.textContent = "Ninguém curtiu";
+      } else if (total === 1) {
+        msg.textContent = `${pessoas[0]} curtiu`;
+      } else if (total === 2) {
+        msg.textContent = `${pessoas[0]} e ${pessoas[1]} curtiram`;
+      } else {
+        msg.textContent = `${pessoas[0]}, ${pessoas[1]} e mais ${total - 2} pessoas curtiram`;
+      }
+    }
+
+    function curtir() {
+      const nome = document.getElementById('nomeInput').value.trim();
+      if (nome && !pessoas.includes(nome)) {
+        pessoas.push(nome);
+        localStorage.setItem('curtidas', JSON.stringify(pessoas));
+        atualizarMensagem();
+      }
+      document.getElementById('nomeInput').value = '';
+    }
+
+    function limpar() {
+      pessoas = [];
+      localStorage.removeItem('curtidas');
+      atualizarMensagem();
+    }
+
+    // Atualiza a mensagem ao carregar a página
+    atualizarMensagem();
+  </script>
+</body>
+</html>
